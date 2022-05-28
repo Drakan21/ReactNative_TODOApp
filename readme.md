@@ -1,4 +1,4 @@
-# Color Viewer (ReactJS/HTML/CSS)
+# ReactNative basic todo App
 
 A Basic React Native TODO application
 
